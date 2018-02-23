@@ -1,0 +1,47 @@
+#img_home {
+    height: 600px;
+    background-color: #999999;
+}
+
+#titre_home {
+    padding: 50px;
+    background-color: #F6F6F6;
+}
+
+.img_height {
+    height: 425px;
+}
+
+#col1_row1 {
+    background-color: #E7E3E2;
+}
+
+#col2_row1 {
+    background-color: #F6F4F5;
+}
+
+#col3_row1 {
+    background-color: #DCDCDC;
+}
+
+
+#col2_row2 {
+    background-color: #b9bbbe;
+}
+
+#col3_row2 {
+    background-color: #EBEBEB;
+}
+
+
+#col1_row3 {
+    background-color: #EEF0ED;
+}
+
+#col2_row3 {
+    background-color: #DCDCDC;
+}
+
+#col3_row3 {
+    background-color: #EFEFEF;
+}
